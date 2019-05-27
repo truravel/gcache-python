@@ -1,0 +1,7 @@
+README.md
+gcache.py
+setup.py
+gcache.egg-info/PKG-INFO
+gcache.egg-info/SOURCES.txt
+gcache.egg-info/dependency_links.txt
+gcache.egg-info/top_level.txt

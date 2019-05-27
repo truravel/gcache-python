@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: gcache
+Version: 0.1
+Summary: GCache Client Package
+Home-page: https://github.com/truravel/gcache-python
+Author: Luis A. Trutie Ravelo
+Author-email: truravel88@gmail.com
+License: UNKNOWN
+Description: # gcache-python
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GPL-3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
